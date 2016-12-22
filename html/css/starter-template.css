@@ -1,0 +1,30 @@
+body {
+  padding-top: 50px;
+  background-color: #3366cc;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar-brand {
+ padding: 5px 15px;
+ }
+
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+.frontbtn {
+background-color:blue;
+color: #FFF;
+}
